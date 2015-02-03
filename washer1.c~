@@ -1,0 +1,23 @@
+#include <unistd.h>
+#include <stdio.h>
+#include <sys/types.h>
+
+struct washer
+{
+	time_t time;
+	char name[256];
+};
+
+int main(int argc, char* argv [])
+{
+	int fd;
+	char str[256];
+	int i=0,count=0;
+	struct washer posuda[count];
+	fd = open("washer1.txt", O_CREAT|O_RDWR, 0666);
+	for(i = 0; i<count; i++)
+	{
+		fscanf("%d",posuda[i].time);
+		fscanf("%s",posuda[i].name);
+	}
+}

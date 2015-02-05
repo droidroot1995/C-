@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="Системы_счисления.Common.О_программе"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Системы_счисления.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Button Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="564,693,0,0" Click="Button_Click" Width="256" Height="65" RenderTransformOrigin="0.461,0.508"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,10,0,0" Height="678" Width="1356" FontSize="20">
+        	<Run Text="Данная программа очень полезна для любителей информатики. Она переводит числа из одной системы счисления в другую. При вводе пустой строки программа закрывается! Будьте внимательны!"/>
+        	<LineBreak/>
+        	<Run Text="В следующей версии планируются новые функции."/>
+        	<LineBreak/>
+        	<Run Text="Автор: Горякин Александр - "/>
+        	<Run Text="kingofshadows aka Graf."/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run Text="&#x9;&#x9;&#x9;             &#x9;&#x9;&#x9;&#x9;&#x9;2013 г."/>
+        </TextBlock>
+
+    </Grid>
+</Page>

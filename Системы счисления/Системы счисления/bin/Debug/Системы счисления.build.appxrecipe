@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SASHA-PC</Machine>
+    <WindowsUser>Александр</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Системы счисления.exe">
+      <PackagePath>Системы счисления.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Системы счисления.pdb">
+      <PackagePath>Системы счисления.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Common\О программе.xaml">
+      <PackagePath>Common\О программе.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Common\Перевод чисел.xaml">
+      <PackagePath>Common\Перевод чисел.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\bin\Debug\камень ножницы бумага.exe.config
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\bin\Debug\камень ножницы бумага.exe
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\bin\Debug\камень ножницы бумага.pdb
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\obj\Debug\камень ножницы бумага.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\obj\Debug\камень_ножницы_бумага.Form1.resources
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\obj\Debug\камень_ножницы_бумага.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\obj\Debug\камень ножницы бумага.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\obj\Debug\камень ножницы бумага.exe
+c:\users\александр\documents\visual studio 2012\Projects\камень ножницы бумага\камень ножницы бумага\obj\Debug\камень ножницы бумага.pdb

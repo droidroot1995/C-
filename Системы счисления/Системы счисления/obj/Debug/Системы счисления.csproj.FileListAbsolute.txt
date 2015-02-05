@@ -1,0 +1,66 @@
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Системы счисления.exe
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Системы счисления.pdb
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\resources.pri
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\AppxManifest.xml
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Системы счисления.build.appxrecipe
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\App.g.i.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\App.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\StandardStyles.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\MainPage.g.i.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\MainPage.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\XamlTypeInfo.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\App.xaml
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\StandardStyles.xaml
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\MainPage.xaml
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Системы счисления.exe
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Системы счисления.pdb
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\priconfig.xml
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\layout.resfiles
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\resources.resfiles
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\pri.resfiles
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\LanguageQualifiers.txt
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\ProjectArchitectures.txt
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\О программе.g.i.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\О программе.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\Перевод чисел.g.i.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\Перевод чисел.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\О программе.xaml
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\Перевод чисел.xaml
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\priconfig.xml.intermediate
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\layout.resfiles.intermediate
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\resources.resfiles.intermediate
+c:\users\александр\documents\visual studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\pri.resfiles.intermediate
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Системы счисления.exe
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Системы счисления.pdb
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\resources.pri
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\AppxManifest.xml
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\bin\Debug\Системы счисления.build.appxrecipe
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\App.g.i.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\App.g.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\StandardStyles.g.i.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\StandardStyles.g.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\О программе.g.i.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\О программе.g.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\Перевод чисел.g.i.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\Перевод чисел.g.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\MainPage.g.i.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\MainPage.g.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\XamlTypeInfo.g.cs
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\App.xaml
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\StandardStyles.xaml
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\О программе.xaml
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Common\Перевод чисел.xaml
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\MainPage.xaml
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Системы счисления.exe
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\Системы счисления.pdb
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\priconfig.xml.intermediate
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\layout.resfiles.intermediate
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\resources.resfiles.intermediate
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\pri.resfiles.intermediate
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\priconfig.xml
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\layout.resfiles
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\resources.resfiles
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\pri.resfiles
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\LanguageQualifiers.txt
+N:\hdd PC\windows 8\Visual Studio 2012\Projects\Системы счисления\Системы счисления\obj\Debug\ProjectArchitectures.txt
